@@ -92,7 +92,18 @@ Retail_Analytics.pbit    # Power BI Template file (structure + queries + DAX, no
   - `gold.dim_department`
   - `gold.fact_sales`
 
-8. Steps
+8. 📈 Report Pages in Detail
+
+**Executive Overview**
+KPI cards, a sales trend column/area chart, YoY waterfall breakdown, and a department contribution donut — designed as a first-glance summary for stakeholders.
+
+**Store Performance**
+Treemap and ranked bar/column charts comparing stores by size, type, and sales; a pivot table and slicers for drill-down; a scatter chart to explore relationships between store attributes and sales.
+
+**Department Performance**
+Ranked bar chart and cumulative-sales (Pareto) view to identify top-contributing departments, alongside a pivot table and slicers for filtering by date/store.
+
+9. Steps
 1. Clone this repository:
    ```bash
    git clone <repo-url>
@@ -105,21 +116,5 @@ Retail_Analytics.pbit    # Power BI Template file (structure + queries + DAX, no
 
 > 💡 If your source tables live in a different database/schema, update the source step in **Power Query Editor → Transform Data** for each table to point to the correct location.
 
-## 📈 Report Pages in Detail
-
-**Executive Overview**
-KPI cards, a sales trend column/area chart, YoY waterfall breakdown, and a department contribution donut — designed as a first-glance summary for stakeholders.
-
-**Store Performance**
-Treemap and ranked bar/column charts comparing stores by size, type, and sales; a pivot table and slicers for drill-down; a scatter chart to explore relationships between store attributes and sales.
-
-**Department Performance**
-Ranked bar chart and cumulative-sales (Pareto) view to identify top-contributing departments, alongside a pivot table and slicers for filtering by date/store.
-
-## 🤝 Contributing
-
-Contributions, suggestions, and issue reports are welcome. Feel free to open an issue or submit a pull request.
-
-## 📄 License
-
-Specify your preferred license here (e.g., MIT).# Retail-Sales-Analytics
+10. Screenshots
+    example : 
