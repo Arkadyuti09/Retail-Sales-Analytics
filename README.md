@@ -118,4 +118,5 @@ Ranked bar chart and cumulative-sales (Pareto) view to identify top-contributing
 
 10. Screenshots
     example : Page 1: https://github.com/Arkadyuti09/Retail-Sales-Analytics/blob/main/Page%201%20of%20the%20Dashbaord.png
-              Page 2: 
+              Page 2: https://github.com/Arkadyuti09/Retail-Sales-Analytics/blob/main/Page%202%20of%20the%20Dashbaord.png
+              Page 3: 
