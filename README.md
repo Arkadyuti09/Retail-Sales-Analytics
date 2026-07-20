@@ -117,4 +117,5 @@ Ranked bar chart and cumulative-sales (Pareto) view to identify top-contributing
 > 💡 If your source tables live in a different database/schema, update the source step in **Power Query Editor → Transform Data** for each table to point to the correct location.
 
 10. Screenshots
-    example : 
+    example : Page 1: https://github.com/Arkadyuti09/Retail-Sales-Analytics/blob/main/Page%201%20of%20the%20Dashbaord.png
+              Page 2: 
